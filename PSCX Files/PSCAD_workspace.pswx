@@ -1,0 +1,17 @@
+<workspace name="PSCAD_workspace" version="5.0.1" crc="20811198">
+  <projects>
+    <project type="project" name="Generic_GFM_switching_no_sys_i" filepath=".\Generic_GFM_switching_no_sys_i.pscx" />
+    <project type="project" name="IBR_3_bus" filepath=".\IBR_3_bus.pscx" />
+    <project type="project" name="ieee_09_bus" filepath=".\ieee_09_bus.pscx" />
+    <project type="project" name="Generic_GFM_switching" filepath=".\Generic_GFM_switching.pscx" />
+  </projects>
+  <simulations />
+  <pmr />
+  <messagegrid expanded="">
+    <column name="Icon" />
+    <column name="Id" />
+    <column name="Component" />
+    <column name="Namespace" />
+    <column name="Description" />
+  </messagegrid>
+</workspace>

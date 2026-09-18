@@ -1,0 +1,101 @@
+<Meta name="Generic_GFM_switching_no_sys_i">
+  <messagelist>
+    <message status="normal" label="build" groupid="400002" scope="Generic_GFM_switching_no_sys_i" id="2061366015" classid="MessageObj"><![CDATA[Begin compiling with PSCAD Version 5.0.1]]></message>
+    <message status="normal" label="build" groupid="100006" link="1951737622" id="1951737622" classid="FileNavigator"><![CDATA[Generating 'C:\Hao Xiang Yang\UofT Courses\1. UofT Grad School\Grad Work\PSCX Files\Generic_GFM_switching_no_sys_i.gf81_x86\Generic_GFM_switching_no_sys_i.map'.]]><file scope="Generic_GFM_switching_no_sys_i">C:\Hao Xiang Yang\UofT Courses\1. UofT Grad School\Grad Work\PSCX Files\Generic_GFM_switching_no_sys_i.gf81_x86\Generic_GFM_switching_no_sys_i.map</file></message>
+    <message status="normal" label="build" groupid="100015" scope="Generic_GFM_switching_no_sys_i" id="1607720378" classid="MessageObj"><![CDATA[The total number of live nodes: 36]]></message>
+    <message status="normal" label="build" groupid="0" link="476153297" id="476153297" classid="FileNavigator"><![CDATA[Coding .mak file: 'C:\Hao Xiang Yang\UofT Courses\1. UofT Grad School\Grad Work\PSCX Files\Generic_GFM_switching_no_sys_i.gf81_x86\\Generic_GFM_switching_no_sys_i.mak']]><file scope="Generic_GFM_switching_no_sys_i">C:\Hao Xiang Yang\UofT Courses\1. UofT Grad School\Grad Work\PSCX Files\Generic_GFM_switching_no_sys_i.gf81_x86\\Generic_GFM_switching_no_sys_i.mak</file></message>
+    <message status="normal" label="build" groupid="100001" scope="Generic_GFM_switching_no_sys_i" id="1924177195" classid="MessageObj"><![CDATA[Non-professional licenses are limited to a single, electrical subsystem. Subsystem splitting has been internally disabled for this simulation.]]></message>
+    <message status="normal" label="build" groupid="400000" scope="Generic_GFM_switching_no_sys_i" id="1674988289" classid="MessageObj"><![CDATA[Time for Compile: 0ms  Make: 0ms]]></message>
+    <message status="normal" label="build" groupid="400000" scope="Generic_GFM_switching_no_sys_i" id="974489436" classid="MessageObj"><![CDATA[Solve Time = 32ms]]></message>
+    <message status="normal" label="build" groupid="100016" scope="Generic_GFM_switching_no_sys_i" id="308631606" classid="MessageObj"><![CDATA[Will execute (1): call C:\Program Files (x86)\GFortran\8.1\x86\bin\gf81vars.bat]]></message>
+    <message status="normal" label="build" groupid="100016" scope="Generic_GFM_switching_no_sys_i" id="913274833" classid="MessageObj"><![CDATA[Will execute (1): call "C:\Program Files (x86)\GFortran\8.1\x86\bin\gf81vars.bat"]]></message>
+    <message status="normal" label="build" groupid="100016" scope="Generic_GFM_switching_no_sys_i" id="733490365" classid="MessageObj"><![CDATA[Will execute (2): make -j -f Generic_GFM_switching_no_sys_i.mak]]></message>
+    <message status="normal" label="build" groupid="100016" scope="Generic_GFM_switching_no_sys_i" id="1568333895" classid="MessageObj"><![CDATA[Will execute (2): "C:\Hao Xiang Yang\UofT Courses\1. UofT Grad School\Grad Work\PSCX Files\Generic_GFM_switching_no_sys_i.gf81_x86\Generic_GFM_switching_no_sys_i_mak.bat"]]></message>
+    <message status="normal" label="build" groupid="100005" scope="Generic_GFM_switching_no_sys_i" id="248070198" classid="MessageObj"><![CDATA[Creating EMTDC executable...]]></message>
+    <message status="normal" label="build" groupid="0" scope="Generic_GFM_switching_no_sys_i" id="1141377990" classid="MessageObj"><![CDATA[C:\Hao Xiang Yang\UofT Courses\1. UofT Grad School\Grad Work\PSCX Files\Generic_GFM_switching_no_sys_i.gf81_x86>call "C:\Program Files (x86)\GFortran\8.1\x86\bin\gf81vars.bat" ]]></message>
+    <message status="normal" label="build" groupid="100013" scope="Generic_GFM_switching_no_sys_i" id="1623589983" classid="MessageObj"><![CDATA[Linking objects and libraries into binary 'Generic_GFM_switching_no_sys_i.exe']]></message>
+    <message status="normal" label="build" groupid="400003" scope="Generic_GFM_switching_no_sys_i" id="691276810" classid="MessageObj"><![CDATA[Finished compiling with PSCAD Version 5.0.1]]></message>
+  </messagelist>
+  <ViewContext>
+    <Window defn="Generic_GFM_switching_no_sys_i:Control_12_2_1_1_1" call="0" />
+  </ViewContext>
+  <List classid="View">
+    <View name="Main" zoomscale="1.2" scrollx="1032" scrolly="93" />
+    <View name="PVFarm_GFL_GFM_2" zoomscale="0.96" scrollx="861" scrolly="184" />
+    <View name="SimpleSF_15_2" zoomscale="1.46739" scrollx="970" scrolly="917" />
+    <View name="Sys_2_1" zoomscale="0.96" scrollx="591" scrolly="147" />
+    <View name="PI_AntiWindUp_50_2" zoomscale="0.96" scrollx="0" scrolly="0" />
+    <View name="SimpleSF_15_2_1" zoomscale="0.96" scrollx="1093" scrolly="552" />
+    <View name="EPRI_PLL_22_2_1_1_1" zoomscale="1.2" scrollx="758" scrolly="384" />
+    <View name="Control_12_2_1_1_1_1" zoomscale="0.96" scrollx="1009" scrolly="0" />
+    <View name="Control_12_2_1_1_1" zoomscale="1.5" scrollx="598" scrolly="1545" />
+    <View name="EPRI_PLL_18_1" zoomscale="0.96" scrollx="0" scrolly="0" />
+  </List>
+  <Output device="EMTDC" version="2010" date="2026/09/17" time="21:24:02.000000">
+    <Domain name="Time" unit="s" mult="0.0" skew="0.0">
+      <Sample rate="4000.0" end="12000" />
+    </Domain>
+    <List classid="Analog">
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0):Irms_POC" index="1" gindex="100663297" id="71822821:0" label="" dim="1" unit="pu" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0):Q_POC" index="2" gindex="100663298" id="121482759:0" label="" dim="1" unit="MVAR" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0):Vgrid_ph_z" index="3" gindex="100663299" id="693217697:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0):P_POC" index="4" gindex="100663300" id="248545870:0" label="" dim="1" unit="MW" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0):Vgrid_ph_n" index="5" gindex="100663301" id="1160519039:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0):I_ph_z" index="6" gindex="100663302" id="2116945177:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0):Vrms_POC" index="7" gindex="100663303" id="2006171006:0" label="" dim="1" unit="pu" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0):Vgrid_ph_p" index="8" gindex="100663304" id="2047347584:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0):I_ph_n" index="9" gindex="100663305" id="493168919:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0):Igrid_POC" index="10" gindex="100663306" id="235547952:0" label="" dim="3" unit="kA" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0):I_ph_p" index="13" gindex="100663309" id="12814678:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0):Vgrid_POC" index="14" gindex="100663310" id="920487586:0" label="" dim="3" unit="kV" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0):Vgrid_z" index="17" gindex="100663313" id="1421055462:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0):Vgrid_n" index="18" gindex="100663314" id="1901151923:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0):I_inv_z" index="19" gindex="100663315" id="1424925153:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0):Vgrid_p" index="20" gindex="100663316" id="223190999:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0):I_inv_n" index="21" gindex="100663317" id="217875012:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0):I_inv_p" index="22" gindex="100663318" id="1428740470:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0):V_Inv_phasor" index="23" gindex="100663319" id="193961895:0" label="" dim="6" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0):Inv_phasor" index="29" gindex="100663325" id="371256421:0" label="" dim="6" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0)\SimpleSF_15_2(0):Vdc_Base" index="35" gindex="100663331" id="382552479:0" label="" dim="1" unit="kV" min="0.0" max="0.4" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0)\SimpleSF_15_2(0):V_dc" index="36" gindex="100663332" id="2061644507:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0)\SimpleSF_15_2(0):Carrier" index="37" gindex="100663333" id="391292654:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0)\SimpleSF_15_2(0):Ppu" index="38" gindex="100663334" id="1166817312:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0)\SimpleSF_15_2(0):Qpu" index="39" gindex="100663335" id="2134051986:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0)\SimpleSF_15_2(0):P_dc" index="40" gindex="100663336" id="828964864:0" label="" dim="1" unit="" min="-0.3" max="0.4" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0)\SimpleSF_15_2(0):P_PV" index="41" gindex="100663337" id="2026367493:0" label="" dim="1" unit="" min="-0.3" max="0.4" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0)\SimpleSF_15_2(0):I_dc" index="42" gindex="100663338" id="329451554:0" label="" dim="1" unit="kA" min="-0.3" max="0.4" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0)\SimpleSF_15_2(0):V_dc" index="43" gindex="100663339" id="1108806204:0" label="" dim="1" unit="kV" min="-0.3" max="0.4" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0)\SimpleSF_15_2(0):Ipv" index="44" gindex="100663340" id="339456051:0" label="" dim="1" unit="kA" min="-0.3" max="0.4" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0)\SimpleSF_15_2(0):Vpv" index="45" gindex="100663341" id="1327237605:0" label="" dim="1" unit="kV" min="-0.3" max="0.4" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0)\SimpleSF_15_2(0):VrefMPPT" index="46" gindex="100663342" id="644715876:0" label="" dim="1" unit="kV" min="-0.3" max="0.4" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0)\SimpleSF_15_2(0):Iq L1" index="47" gindex="100663343" id="1452298727:0" label="" dim="1" unit="pu" min="-0.12" max="0.12" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0)\SimpleSF_15_2(0):Id L1" index="48" gindex="100663344" id="1119238630:0" label="" dim="1" unit="pu" min="-0.2" max="0.2" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0)\SimpleSF_15_2(0):Iq Reference" index="49" gindex="100663345" id="1870188233:0" label="" dim="1" unit="pu" min="-0.12" max="0.02" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0)\SimpleSF_15_2(0):Iq  Measured" index="50" gindex="100663346" id="1114557855:0" label="" dim="1" unit="pu" min="-0.12" max="0.12" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0)\SimpleSF_15_2(0):Id  Measured" index="51" gindex="100663347" id="60118137:0" label="" dim="1" unit="pu" min="-0.2" max="0.2" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0)\SimpleSF_15_2(0):Vq Measured" index="52" gindex="100663348" id="1068835066:0" label="" dim="1" unit="V" min="-300" max="300" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0)\SimpleSF_15_2(0):Id Reference" index="53" gindex="100663349" id="139356684:0" label="" dim="1" unit="pu" min="-0.1" max="0.2" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0)\SimpleSF_15_2(0):Igrid" index="54" gindex="100663350" id="545833127:0" label="" dim="3" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0)\SimpleSF_15_2(0):Vd Measured" index="57" gindex="100663353" id="1916476244:0" label="" dim="1" unit="V" min="-300" max="300" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0)\SimpleSF_15_2(0):Vgrid" index="58" gindex="100663354" id="1128156094:0" label="" dim="3" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0)\SimpleSF_15_2(0):freq_control" index="61" gindex="100663357" id="1150315372:0" label="" dim="1" unit="Hz" min="-0.3" max="0.4" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0)\SimpleSF_15_2(0):P_MPPT" index="62" gindex="100663358" id="1967217350:0" label="" dim="1" unit="MW" min="-0.3" max="0.4" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0)\SimpleSF_15_2(0):Ref_Boost" index="63" gindex="100663359" id="1364736695:0" label="" dim="1" unit="kV" min="-0.3" max="0.4" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0)\SimpleSF_15_2(0):Ref_a" index="64" gindex="100663360" id="1408151938:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0)\SimpleSF_15_2(0):Q" index="65" gindex="100663361" id="1602892907:0" label="" dim="1" unit="MVAR" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0)\SimpleSF_15_2(0):P" index="66" gindex="100663362" id="1652990558:0" label="" dim="1" unit="MW" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0)\SimpleSF_15_2(0):Delta" index="67" gindex="100663363" id="19011432:0" label="" dim="1" unit="o" min="-90" max="90" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0)\SimpleSF_15_2(0):m*" index="68" gindex="100663364" id="495407710:0" label="" dim="1" unit="" min="0" max="1" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0)\SimpleSF_15_2(0):Vgrid_ph_p" index="69" gindex="100663365" id="1797442148:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0)\SimpleSF_15_2(0):I_ph_p" index="70" gindex="100663366" id="1524222939:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0)\SimpleSF_15_2(0):Vgrid_p" index="71" gindex="100663367" id="1594871117:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0)\SimpleSF_15_2(0):I_inv_p" index="72" gindex="100663368" id="821935156:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0)\SimpleSF_15_2(0)\Control_12_2_1_1_1(Control_12_2_1_1):q-voltage" index="73" gindex="100663369" id="250722307:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0)\SimpleSF_15_2(0)\Control_12_2_1_1_1(Control_12_2_1_1):d-voltage" index="74" gindex="100663370" id="649041748:0" label="" dim="2" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0)\SimpleSF_15_2(0)\Control_12_2_1_1_1(Control_12_2_1_1)\EPRI_PLL_22_2_1_1_1(0):d_theta" index="76" gindex="100663372" id="842925569:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0)\SimpleSF_15_2(0)\Control_12_2_1_1_1(Control_12_2_1_1)\EPRI_PLL_22_2_1_1_1(0):Vdq" index="77" gindex="100663373" id="1286433253:0" label="" dim="2" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2(0)\SimpleSF_15_2(0)\Control_12_2_1_1_1(Control_12_2_1_1)\EPRI_PLL_22_2_1_1_1(0):P_Q_ref_lim" index="79" gindex="100663375" id="626198222:0" label="" dim="2" unit="" min="-2.0" max="2.0" />
+    </List>
+    <List classid="Digital" />
+  </Output>
+</Meta>
